@@ -1,0 +1,25 @@
+# Build output
+build/
+bin/
+obj/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS generated files
+.DS_Store
+Thumbs.db
